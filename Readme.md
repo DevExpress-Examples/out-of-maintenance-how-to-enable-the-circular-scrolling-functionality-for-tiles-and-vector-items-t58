@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CircularScrolling/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CircularScrolling/MainWindow.xaml))
+<!-- default file list end -->
 # How to enable the circular scrolling functionality for tiles and vector items
 
 
